@@ -1,10 +1,10 @@
 sql1 ct_master.token count 65 of 288280
 sql2 ct_master.brief_title count 6 of 277935
-sql3 ct_master.brief_summary
-sql4 ct_master.detailed_description
+sql3 ct_master.brief_summary count 0 of 287480
+sql4 ct_master.detailed_description 8169371 of 186322
 sql5 ct_primary_outcome.description count 75752 of 278785
 sql6 ct_condition.condition count 11121260 of 471432
 sql7 ct_arm_group.description count 115479 of 429199
 sql8 ct_intervention count 243493 of 409029
-sql9 ct_eligibility.criteria
+sql9 ct_eligibility.criteria count 892947 of 287402
 sql10 ct_condition_browse.mesh_term count 34243099 of 511858
