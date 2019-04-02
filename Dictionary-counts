@@ -10,3 +10,7 @@ ct_arm_group.description count 115,479 of 429,199
 ct_intervention.description count 243,493 of 409,029
 ct_eligibility.criteria count 892,947 of 287,402
 ct_condition_browse.mesh_term count 34,243,099 of 511,858
+
+Example:
+For ct_master:brief_title; 288,280 records in ct_master checked, each of the 172,502 dictionary token’s were 
+regular expression matched against the brief_title yielding only 65 matches
